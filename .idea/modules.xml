@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basemodule/basemodule.iml" filepath="$PROJECT_DIR$/basemodule/basemodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cartmodule/cartmodule.iml" filepath="$PROJECT_DIR$/cartmodule/cartmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodsmodule/goodsmodule.iml" filepath="$PROJECT_DIR$/goodsmodule/goodsmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/librarymodule/librarymodule.iml" filepath="$PROJECT_DIR$/librarymodule/librarymodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mainModule/mainModule.iml" filepath="$PROJECT_DIR$/mainModule/mainModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ordermodule/ordermodule.iml" filepath="$PROJECT_DIR$/ordermodule/ordermodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/routermodule/routermodule.iml" filepath="$PROJECT_DIR$/routermodule/routermodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usermodule/usermodule.iml" filepath="$PROJECT_DIR$/usermodule/usermodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/组件Demo.iml" filepath="$PROJECT_DIR$/组件Demo.iml" />
+    </modules>
+  </component>
+</project>
